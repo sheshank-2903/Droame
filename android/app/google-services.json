@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26011345649",
+    "project_id": "droame-b5299",
+    "storage_bucket": "droame-b5299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26011345649:android:0d949fe63db7510d42bf50",
+        "android_client_info": {
+          "package_name": "com.droame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26011345649-3thsppiqagl86e9203mghiqj9glhqdi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFYRkuEoRtjxYgFCU849K58kBXOjnCFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26011345649-3thsppiqagl86e9203mghiqj9glhqdi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
